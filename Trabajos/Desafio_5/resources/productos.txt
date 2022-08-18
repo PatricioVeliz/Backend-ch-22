@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Monopoly",
+    "price": 10148,
+    "src": "https://http2.mlstatic.com/D_NQ_NP_852178-MLA44678979171_012021-O.webp"
+  },
+  {
+    "id": 2,
+    "name": "Cartas del Uno",
+    "price": 1920,
+    "src": "https://http2.mlstatic.com/D_NQ_NP_942888-MLA46738841701_072021-O.webp"
+  },
+  {
+    "id": 3,
+    "name": "Juego de Mesa Salvando al Pingüino",
+    "price": 3000,
+    "src": "https://http2.mlstatic.com/D_NQ_NP_952471-MLA48793833398_012022-O.webp"
+  },
+  {
+    "id": 4,
+    "name": "Juego de Mesa Preguntados",
+    "price": 4272,
+    "src": "https://http2.mlstatic.com/D_NQ_NP_668883-MLA47665237618_092021-O.webp"
+  },
+  {
+    "name": "yo-yo",
+    "price": "700",
+    "src": "https://media.istockphoto.com/photos/red-yoyo-picture-id1263471487?k=20&m=1263471487&s=612x612&w=0&h=W_wA6OV_GgnDBZ8V085hY0zwIaD8jHhcqMnW0c7Qgpo=",
+    "id": 5
+  },
+  {
+    "name": "Figura del Water",
+    "price": "2500",
+    "src": "6",
+    "id": 6
+  }
+]
